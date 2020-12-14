@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  belongs_to: MyString
+  dog: MyString
+  belongs_to: MyString
+  employee: MyString
+
+two:
+  belongs_to: MyString
+  dog: MyString
+  belongs_to: MyString
+  employee: MyString
